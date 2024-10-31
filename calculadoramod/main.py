@@ -1,6 +1,5 @@
-
-from calculadoramod.calcu.operaciones import suma, resta, multiplicacion, division
-from calculadoramod.calcu.historial import mostrar_historial, agregar_historial
+from calcu.operaciones import suma, resta, multiplicacion, division
+from calcu.historial import mostrar_historial, agregar_historial
 
 
 def main():
